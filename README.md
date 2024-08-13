@@ -1,4 +1,4 @@
-# Data Analytics & Visualization Portfolio
+# Data Analytics, Programming & Visualization Portfolio
 
 Welcome to my portfolio repository! Here, you'll find a collection of my projects focused on data analytics, visualization, and programming. Each project demonstrates my ability to turn data into actionable insights using tools like Python, SQL, Tableau, and Excel.
 

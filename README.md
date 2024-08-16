@@ -19,12 +19,7 @@ Welcome to my portfolio repository! Here, you'll find a collection of my project
 ### Investigating Educational Disparities
 - **Description:** Analyzed Open University data using Tableau, revealing a 20% higher failure rate in deprived areas.
 - **Technologies:** Tableau, Data Analysis
-- [Tableau Link](https://public.tableau.com/app/profile/hamzasalahds/viz/StudentGPADemographicsAnalysisDashboardOpenUniversity/StudentGPADemographicsAnalysisDashboards)
-
-### Healthcare Quality Dashboard
-- **Description:** Created a user-friendly Tableau dashboard to help patients make informed healthcare decisions.
-- **Technologies:** Tableau, Data Visualization
-- [Tableau Link](https://public.tableau.com/app/profile/hamzasalahds/viz/TimelyEffectiveCarebyHospitalinTheUnitedStatesDashboardCMS/TimelyEffectiveCarebyHospitalinTheUnitedStatesDashboardCMS)
+- [Tableau Link](https://public.tableau.com/app/profile/hamzasalahds/viz/StudentGPADemographicsAnalysisDashboardOpenUniversity/StudentGPADemographicsAnalysisDashboard)
 
 ### Employee Performance System
 - **Description:** Implemented an Excel system containing charts and dashboards to highlight area performance. Achieved a 10% improvement in sorting efficiency, processing over 262,000 items per shift.
@@ -34,17 +29,17 @@ Welcome to my portfolio repository! Here, you'll find a collection of my project
 ### Home Values in TN
 - **Description:** Analyzed Zillow data on home values in Tennessee from 2000 to 2022, creating an interactive Tableau dashboard to display value changes by zip code.
 - **Technologies:** Tableau, Data Analysis
-- [Tableau Link](https://public.tableau.com/app/profile/hamzasalahds/viz/HomeValuesinTN_2000_2022/Overview)
+- [Tableau Link](https://public.tableau.com/app/profile/hamzasalahds/viz/Single-FamilyHomeValuesinTennesseeDashboardZillow/Dashboard)
 
 ### Covid Case Tracker
 - **Description:** Developed a Tableau dashboard visualizing COVID-19 cases, deaths, and testing data from sources like WHO and CDC.
 - **Technologies:** Tableau, Data Visualization
-- [Tableau Link](https://public.tableau.com/app/profile/hamzasalahds/viz/COVID19CaseTracker/COVID19CaseTracker)
+- [Tableau Link](https://public.tableau.com/app/profile/hamzasalahds/viz/GlobalCOVID-19CaseTracker/Covid-19CaseTracker)
 
 ### Timely & Effective Care Across the US
 - **Description:** Created a Tableau dashboard for CMS data to help patients choose the best hospital based on quality of care metrics.
 - **Technologies:** Tableau, Data Visualization
-- [Tableau Link](https://public.tableau.com/app/profile/hamzasalahds/viz/TimelyEffectiveCareAcrossTheUS/Overview)
+- [Tableau Link](https://public.tableau.com/app/profile/hamzasalahds/viz/TimelyEffectiveCarebyHospitalinTheUnitedStatesDashboardCMS/TimelyEffectiveCarebyHospitalinTheUnitedStatesDashboardCMS)
 
 ### Open University Student GPA & Demographics Analysis
 - **Description:** Analyzed data from Open University, identifying correlations between GPA and demographics using Tableau.
@@ -54,4 +49,4 @@ Welcome to my portfolio repository! Here, you'll find a collection of my project
 ### Hospital COVID-19 Relational Database
 - **Description:** Designed and implemented a relational database using MySQL to manage COVID-19 data for hospitals, including a user interface for staff.
 - **Technologies:** MySQL, Database Design
-- [Repository Link](https://github.com/hamzasalahds/hospital-covid-database)
+- [Repository Link](https://github.com/hamzasalahds/sql_hospital_database)

@@ -1,14 +1,13 @@
-# Data Analytics, Programming & Visualization Portfolio
+# Data Science Portfolio
 
-Welcome to my portfolio repository! Here, you'll find a collection of my projects focused on data analytics, visualization, and programming. Each project demonstrates my ability to turn data into actionable insights using tools like Python, SQL, Tableau, and Excel.
+Welcome to my portfolio repository! Here, you'll find a collection of my data science projects focused on data analytics, visualization, and programming. Each project demonstrates my ability to turn data into actionable insights using tools like Python, SQL, Tableau, and Excel.
 
 ## Table of Contents
 
-- [Visualization Projects](https://github.com/hamzasalahds/projects/blob/main/README.md#1--visualization-projects): Data analysis and visualization using tools like Tableau and Excel.
-- [Programming Projects](https://github.com/hamzasalahds/projects/blob/main/README.md#2--programming-projects): Software development and scripting with Python and APIs.
-- [Data Querying & Management](https://github.com/hamzasalahds/projects/blob/main/README.md#3--database-projects): SQL and data management projects focusing on database design and querying.
-- [Data Analytics Projects](https://github.com/hamzasalahds/projects/blob/main/README.md#4--data-analytics-projects): Excel-based analytics and performance tracking projects.
-
+1. **[Visualization Projects](https://github.com/hamzasalahds/projects/blob/main/README.md#1--visualization-projects)**: Data analysis and visualization using tools like Tableau and Excel.
+2. **[Programming Projects](https://github.com/hamzasalahds/projects/blob/main/README.md#2--programming-projects)**: Software development and scripting with Python and APIs.
+3. **[Data Querying & Management](https://github.com/hamzasalahds/projects/blob/main/README.md#3--database-projects)**: SQL and data management projects focusing on database design and querying.
+4. **[Data Analytics Projects](https://github.com/hamzasalahds/projects/blob/main/README.md#4--data-analytics-projects)**: Excel-based analytics and performance tracking projects.
 ---
 
 ## 1- Visualization Projects

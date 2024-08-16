@@ -3,10 +3,10 @@
 Welcome to my portfolio repository! Here, you'll find a collection of my projects focused on data analytics, visualization, and programming. Each project demonstrates my ability to turn data into actionable insights using tools like Python, SQL, Tableau, and Excel.
 
 ## Table of Contents
-- [Visualization Projects](#visualization-projects)
-- [Programming Projects](#programming-projects)
-- [Data Querying & Management](#data-querying--management)
-- [Data Analytics Projects](#data-analytics-projects)
+- [Visualization Projects](https://github.com/hamzasalahds/projects/blob/main/README.md#1--visualization-projects)
+- [Programming Projects](https://github.com/hamzasalahds/projects/blob/main/README.md#2--programming-projects)
+- [Data Querying & Management](https://github.com/hamzasalahds/projects/blob/main/README.md#3--database-projects)
+- [Data Analytics Projects](https://github.com/hamzasalahds/projects/blob/main/README.md#4--data-analytics-projects)
 
 ## 1- Visualization Projects
 

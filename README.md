@@ -54,7 +54,7 @@ Welcome to my portfolio repository! Here, you'll find a collection of my data sc
 ### Hospital COVID-19 Relational Database
 - **Description:** Designed and implemented a relational database using MySQL to manage COVID-19 data for hospitals, including a user interface for staff.
 - **Technologies:** MySQL, Database Design
-- [Repository Link](https://github.com/hamzasalahds/sql_hospital_database)
+- [Repository Link](https://github.com/hamzasalahds/hospital_database?tab=readme-ov-file#--covid-19-patient-data-management-system-)
 
 ## 4- Data Analytics Projects
 

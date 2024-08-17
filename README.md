@@ -6,7 +6,7 @@ Welcome to my portfolio repository! Here, you'll find a collection of my data sc
 
 1. **[Visualization Projects](https://github.com/hamzasalahds/projects/blob/main/README.md#1--visualization-projects)**: Data analysis and visualization using tools like Tableau and Excel.
 2. **[Programming Projects](https://github.com/hamzasalahds/projects/blob/main/README.md#2--programming-projects)**: Software development and scripting with Python and APIs.
-3. **[Data Querying & Management](https://github.com/hamzasalahds/projects/blob/main/README.md#3--database-projects)**: SQL and data management projects focusing on database design and querying.
+3. **[Data Querying & Management](https://github.com/hamzasalahds/projects/blob/main/README.md#3--data-querying--management)**: SQL and data management projects focusing on database design and querying.
 4. **[Data Analytics Projects](https://github.com/hamzasalahds/projects/blob/main/README.md#4--data-analytics-projects)**: Excel-based analytics and performance tracking projects.
 ---
 

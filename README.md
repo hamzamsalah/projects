@@ -4,10 +4,10 @@ Welcome to my portfolio repository! Here, you'll find a collection of my data sc
 
 ## Table of Contents
 
-1. **[Data Querying & Management](https://github.com/hamzasalahds/projects/blob/main/README.md#3--data-querying--management)**: SQL and data management projects focusing on database design and querying.
-2. **[Data Analytics Projects](https://github.com/hamzasalahds/projects/blob/main/README.md#4--data-analytics-projects)**: Excel-based analytics and performance tracking projects.
-3. **[Programming Projects](https://github.com/hamzasalahds/projects/blob/main/README.md#2--programming-projects)**: Software development and scripting with Python and APIs.
-4. **[Visualization Projects](https://github.com/hamzasalahds/projects/blob/main/README.md#1--visualization-projects)**: Data analysis and visualization using tools like Tableau and Excel.
+1. **[Data Querying & Management](https://github.com/hamzasalahds/projects/blob/main/README.md#1--data-querying--management)**: SQL and data management projects focusing on database design and querying.
+2. **[Data Analytics Projects](https://github.com/hamzasalahds/projects/blob/main/README.md#2--data-analytics-projects)**: Excel-based analytics and performance tracking projects.
+3. **[Programming Projects](https://github.com/hamzasalahds/projects/blob/main/README.md#3--programming-projects)**: Software development and scripting with Python and APIs.
+4. **[Visualization Projects](https://github.com/hamzasalahds/projects/blob/main/README.md#4--visualization-projects)**: Data analysis and visualization using tools like Tableau and Excel.
 ---
 
 ## 1- Data Querying & Management

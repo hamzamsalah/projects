@@ -49,7 +49,7 @@ Welcome to my portfolio repository! Here, you'll find a collection of my data sc
 - **Technologies:** Python, REST API
 - [Repository Link](https://github.com/hamzasalahds/weather-lookup?tab=readme-ov-file#-dsc-510-programming---bellevue-university)
 
-## 3- Database Projects
+## 3- Data Querying & Management
 
 ### Hospital COVID-19 Relational Database
 - **Description:** Designed and implemented a relational database using MySQL to manage COVID-19 data for hospitals, including a user interface for staff.

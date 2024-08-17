@@ -16,6 +16,7 @@ Welcome to my portfolio repository! Here, you'll find a collection of my data sc
 - **Description:** Designed and implemented a relational database using MySQL to manage COVID-19 data for hospitals, including a user interface for staff.
 - **Technologies:** MySQL, Database Design
 - [Repository Link](https://github.com/hamzasalahds/hospital_database?tab=readme-ov-file#--covid-19-patient-data-management-system-)
+<br />
 
 
 ## 2- Data Analytics Projects
@@ -24,7 +25,7 @@ Welcome to my portfolio repository! Here, you'll find a collection of my data sc
 - **Description:** Implemented an Excel system containing charts and dashboards to highlight area performance. Achieved a 10% improvement in sorting efficiency, processing over 262,000 items per shift.
 - **Technologies:** Excel, Data Visualization
 - [Powerpoint Link](https://docs.google.com/presentation/d/1j6qjf0WkJVV8ssiE6bZNro4akzOUyG-J/edit?usp=drive_link&ouid=100663489408452123412&rtpof=true&sd=true)
-
+<br />
 
 ## 3- Programming Projects
 
@@ -32,7 +33,7 @@ Welcome to my portfolio repository! Here, you'll find a collection of my data sc
 - **Description:** Developed a Python program for weather lookup by zip code or city, utilizing the OpenWeatherMap API.
 - **Technologies:** Python, REST API
 - [Repository Link](https://github.com/hamzasalahds/weather-lookup?tab=readme-ov-file#-dsc-510-programming---bellevue-university)
-
+<br />
 
 ## 4- Visualization Projects
 

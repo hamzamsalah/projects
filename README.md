@@ -14,7 +14,7 @@ Welcome to my portfolio repository! Here, you'll find a collection of my data sc
 
 ### Hospital COVID-19 Relational Database
 - **Description:** Designed and implemented a relational database using MySQL to manage COVID-19 data for hospitals, including a user interface for staff.
-- **Technologies:** MySQL, Database Design
+- **Technologies:** MySQL
 - [Repository Link](https://github.com/hamzasalahds/hospital_database?tab=readme-ov-file#--covid-19-patient-data-management-system-)
 <br />
 
@@ -23,7 +23,7 @@ Welcome to my portfolio repository! Here, you'll find a collection of my data sc
 
 ### Employee Performance System
 - **Description:** Implemented an Excel system containing charts and dashboards to highlight area performance. Achieved a 10% improvement in sorting efficiency, processing over 262,000 items per shift.
-- **Technologies:** Excel, Data Visualization
+- **Technologies:** Excel
 - [Powerpoint Link](https://docs.google.com/presentation/d/1j6qjf0WkJVV8ssiE6bZNro4akzOUyG-J/edit?usp=drive_link&ouid=100663489408452123412&rtpof=true&sd=true)
 <br />
 

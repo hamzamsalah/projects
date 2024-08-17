@@ -44,12 +44,12 @@ Welcome to my portfolio repository! Here, you'll find a collection of my data sc
 
 ### Investigating Educational Disparities
 - **Description:** Analyzed Open University data using Tableau, revealing a 20% higher failure rate in deprived areas.
-- **Technologies:** Tableau, Data Analysis
+- **Technologies:** Excel, Tableau
 - [Tableau Link](https://public.tableau.com/app/profile/hamzasalahds/viz/StudentGPADemographicsAnalysisDashboardOpenUniversity/StudentGPADemographicsAnalysisDashboard)
 
 ### Covid Case Tracker
 - **Description:** Developed a Tableau dashboard visualizing COVID-19 cases, deaths, and testing data from sources like WHO and CDC.
-- **Technologies:** Tableau, Data Visualization
+- **Technologies:** Tableau
 - [Tableau Link](https://public.tableau.com/app/profile/hamzasalahds/viz/GlobalCOVID-19CaseTracker/Covid-19CaseTracker)
 
 ### Timely & Effective Care Across the US
@@ -59,10 +59,10 @@ Welcome to my portfolio repository! Here, you'll find a collection of my data sc
 
 ### Home Values in TN
 - **Description:** Analyzed Zillow data on home values in Tennessee from 2000 to 2022, creating an interactive Tableau dashboard to display value changes by zip code.
-- **Technologies:** Tableau, Data Analysis
+- **Technologies:** Excel, Tableau
 - [Tableau Link](https://public.tableau.com/app/profile/hamzasalahds/viz/Single-FamilyHomeValuesinTennesseeDashboardZillow/Dashboard)
 
 ### Open University Student GPA & Demographics Analysis
 - **Description:** Analyzed data from Open University, identifying correlations between GPA and demographics using Tableau.
-- **Technologies:** Tableau, Data Analysis
+- **Technologies:** Excel, Tableau
 - [Tableau Link](https://public.tableau.com/app/profile/hamzasalahds/viz/StudentGPADemographicsAnalysisDashboardOpenUniversity/StudentGPADemographicsAnalysisDashboard)

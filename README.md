@@ -24,7 +24,7 @@ Welcome to my portfolio repository! Here, you'll find a collection of my data sc
 ### Employee Performance System
 - **Description:** Implemented an Excel system containing charts and dashboards to highlight area performance. Achieved a 10% improvement in sorting efficiency, processing over 262,000 items per shift.
 - **Technologies:** Excel
-- [Powerpoint Link](https://docs.google.com/presentation/d/1j6qjf0WkJVV8ssiE6bZNro4akzOUyG-J/edit?usp=drive_link&ouid=100663489408452123412&rtpof=true&sd=true)
+- [Powerpoint Link](https://github.com/hamzasalahds/Amazon_Project/tree/main?tab=readme-ov-file#employee-performance-system)
 <br />
 
 ## 3- Programming Projects

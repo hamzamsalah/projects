@@ -4,13 +4,19 @@ Welcome to my portfolio repository! Here, you'll find a collection of my data sc
 
 ## Table of Contents
 
-1. **[Data Querying & Management](https://github.com/hamzasalahds/projects/blob/main/README.md#1--data-querying--management)**: SQL and data management projects focusing on database design and querying.
-2. **[Data Analytics Projects](https://github.com/hamzasalahds/projects/blob/main/README.md#2--data-analytics-projects)**: Excel-based analytics and performance tracking projects.
-3. **[Programming Projects](https://github.com/hamzasalahds/projects/blob/main/README.md#3--programming-projects)**: Software development and scripting with Python and APIs.
-4. **[Visualization Projects](https://github.com/hamzasalahds/projects/blob/main/README.md#4--visualization-projects)**: Data analysis and visualization using tools like Tableau and Excel.
+1. **[Predictive Modeling Projects](https://github.com/hamzasalahds/projects/edit/main/README.md#1--predictive-modeling-projects)**: SQL and data management projects focusing on database design and querying.
+2. **[Data Querying & Management](https://github.com/hamzasalahds/projects/blob/main/README.md#1--data-querying--management)**: SQL and data management projects focusing on database design and querying.
+3. **[Data Analytics Projects](https://github.com/hamzasalahds/projects/blob/main/README.md#2--data-analytics-projects)**: Excel-based analytics and performance tracking projects.
+4. **[Programming Projects](https://github.com/hamzasalahds/projects/blob/main/README.md#3--programming-projects)**: Software development and scripting with Python and APIs.
+5. **[Visualization Projects](https://github.com/hamzasalahds/projects/blob/main/README.md#4--visualization-projects)**: Data analysis and visualization using tools like Tableau and Excel.
 ---
-
-## 1- Data Querying & Management
+## 1- Predictive Modeling Projects
+- **Predicting Residential Electricity Consumption Variability Using Temperature & Total Customers**  
+  Analyzed the impact of temperature and customer count on residential electricity consumption using statistical models. Cleaned and prepared the dataset, performed exploratory data analysis, and developed predictive models to forecast consumption variability.  
+  **Technologies:** R (dplyr, ggplot2, lattice, caret)
+  - [Repository Link](https://github.com/hamzasalahds/electricity-consumption-prediction/blob/main/README.md#-predicting-residential-electricity-consumption-variability-using-temperature--total-customers-)
+  <br />
+## 2- Data Querying & Management
 
 ### Hospital COVID-19 Relational Database
 - **Description:** Designed and implemented a relational database using MySQL to manage COVID-19 data for hospitals, including a user interface for staff.
@@ -19,7 +25,7 @@ Welcome to my portfolio repository! Here, you'll find a collection of my data sc
 <br />
 
 
-## 2- Data Analytics Projects
+## 3- Data Analytics Projects
 
 ### Amazon FC - Employee Performance System
 - **Description:** Implemented an Excel system containing charts and dashboards to highlight area performance. Achieved a 10% improvement in sorting efficiency, processing over 262,000 items per shift.
@@ -27,7 +33,7 @@ Welcome to my portfolio repository! Here, you'll find a collection of my data sc
 - [Repository Link](https://github.com/hamzasalahds/Amazon_Project/blob/main/README.md#amazon-fc---employee-performance-system)
 <br />
 
-## 3- Programming Projects
+## 4- Programming Projects
 
 ### Weather Lookup
 - **Description:** Developed a Python program for weather lookup by zip code or city, utilizing the OpenWeatherMap API.
@@ -35,7 +41,7 @@ Welcome to my portfolio repository! Here, you'll find a collection of my data sc
 - [Repository Link](https://github.com/hamzasalahds/weather-lookup?tab=readme-ov-file#-dsc-510-programming---bellevue-university)
 <br />
 
-## 4- Visualization Projects
+## 5- Visualization Projects
 
 ### US Mass Shootings Analysis
 - **Description:** Utilized Excel and Tableau to uncover a 13% increase in US mass shootings during COVID-19.

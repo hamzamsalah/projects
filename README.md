@@ -14,7 +14,7 @@ Welcome to my portfolio repository! Here, you'll find a collection of my data sc
 
 ### Predicting Residential Electricity Consumption Variability Using Temperature & Total Customers
 - **Description:** Analyzed the impact of temperature and customer count on residential electricity consumption using statistical models. Cleaned and prepared the dataset, performed exploratory data analysis, and developed predictive models to forecast consumption variability.  
-- **Technologies:** R (dplyr, ggplot2, lattice, caret)
+- **Technologies:** R (readxl, dplyr, ggplot2, caret, forecast, lubridate, mgcv)
 - [**Repository Link**](https://github.com/hamzasalahds/electricity-consumption-prediction/blob/main/README.md#-predicting-residential-electricity-consumption-variability-using-temperature--total-customers-)
 <br />
   

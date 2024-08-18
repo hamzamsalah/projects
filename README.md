@@ -4,7 +4,7 @@ Welcome to my portfolio repository! Here, you'll find a collection of my data sc
 
 ## Table of Contents
 
-1. **[Predictive Modeling Projects](https://github.com/hamzasalahds/projects/blob/main/README.md#1--predictive-modeling-projects)**: SQL and data management projects focusing on database design and querying.
+1. **[Predictive Modeling Projects](https://github.com/hamzasalahds/projects/blob/main/README.md#1--predictive-modeling-projects)**: Forecasting and predictions using statistical models and machine learning.
 2. **[Data Querying & Management](https://github.com/hamzasalahds/projects/blob/main/README.md#2--data-querying--management)**: SQL and data management projects focusing on database design and querying.
 3. **[Data Analytics Projects](https://github.com/hamzasalahds/projects/blob/main/README.md#3--data-analytics-projects)**: Excel-based analytics and performance tracking projects.
 4. **[Programming Projects](https://github.com/hamzasalahds/projects/blob/main/README.md#4--programming-projects)**: Software development and scripting with Python and APIs.

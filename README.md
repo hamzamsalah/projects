@@ -21,10 +21,10 @@ Welcome to my portfolio repository! Here, you'll find a collection of my data sc
 
 ## 2- Data Analytics Projects
 
-### Employee Performance System
+### Amazon FC - Employee Performance System
 - **Description:** Implemented an Excel system containing charts and dashboards to highlight area performance. Achieved a 10% improvement in sorting efficiency, processing over 262,000 items per shift.
 - **Technologies:** Excel
-- [Repository Link](https://github.com/hamzasalahds/Amazon_Project/tree/main?tab=readme-ov-file#employee-performance-system)
+- [Repository Link](https://github.com/hamzasalahds/Amazon_Project/blob/main/README.md#amazon-fc---employee-performance-system)
 <br />
 
 ## 3- Programming Projects

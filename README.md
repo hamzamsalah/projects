@@ -11,11 +11,12 @@ Welcome to my portfolio repository! Here, you'll find a collection of my data sc
 5. **[Visualization Projects](https://github.com/hamzasalahds/projects/blob/main/README.md#5--visualization-projects)**: Data analysis and visualization using tools like Tableau and Excel.
 ---
 ## 1- Predictive Modeling Projects
+
 - **Predicting Residential Electricity Consumption Variability Using Temperature & Total Customers**  
   Analyzed the impact of temperature and customer count on residential electricity consumption using statistical models. Cleaned and prepared the dataset, performed exploratory data analysis, and developed predictive models to forecast consumption variability.  
   **Technologies:** R (dplyr, ggplot2, lattice, caret)
 - [**Repository Link**](https://github.com/hamzasalahds/electricity-consumption-prediction/blob/main/README.md#-predicting-residential-electricity-consumption-variability-using-temperature--total-customers-)
-  <br />
+<br />
   
 ## 2- Data Querying & Management
 

@@ -16,6 +16,7 @@ Welcome to my portfolio repository! Here, you'll find a collection of my data sc
   **Technologies:** R (dplyr, ggplot2, lattice, caret)
 - [**Repository Link**](https://github.com/hamzasalahds/electricity-consumption-prediction/blob/main/README.md#-predicting-residential-electricity-consumption-variability-using-temperature--total-customers-)
   <br />
+  
 ## 2- Data Querying & Management
 
 ### Hospital COVID-19 Relational Database

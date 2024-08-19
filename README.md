@@ -8,7 +8,7 @@ Welcome to my portfolio repository! Here, you'll find a collection of my data sc
 2. **[Data Querying & Management](https://github.com/hamzasalahds/projects/blob/main/README.md#2--data-querying--management)**: SQL and data management projects focusing on database design and querying.
 3. **[Data Analytics Projects](https://github.com/hamzasalahds/projects/blob/main/README.md#3--data-analytics-projects)**: Excel-based analytics and performance tracking projects.
 4. **[Programming Projects](https://github.com/hamzasalahds/projects/blob/main/README.md#4--programming-projects)**: Software development and scripting with Python and APIs.
-5. **[Visualization Projects](https://github.com/hamzasalahds/projects/blob/main/README.md#5--visualization-projects)**: Data analysis and visualization using tools like Tableau and Excel.
+5. **[Data Visualization & Reporting Projects](https://github.com/hamzasalahds/projects/blob/main/README.md#5--visualization-projects)**: Data analysis and visualization using tools like Tableau and Excel.
 ---
 ## 1- Predictive Modeling Projects
 
@@ -43,7 +43,17 @@ Welcome to my portfolio repository! Here, you'll find a collection of my data sc
 - [**Repository Link**](https://github.com/hamzasalahds/weather-lookup?tab=readme-ov-file#-dsc-510-programming---bellevue-university)
 <br />
 
-## 5- Visualization Projects
+## 5- Data Visualization & Reporting Projects
+
+### Concession Baseball Sales Dashboard
+**Description:** Built a Power BI dashboard to track sales and performance of concessions at baseball games, optimizing inventory and pricing strategies.
+**Technologies:** Power BI
+[**Power BI Link**](https://1drv.ms/p/s!Aon19ecNhTKCgbVzZiQHhfKQHrxTLw?e=58TkVt)
+
+### Sales Dashboard
+**Description:** Designed a Power BI sales dashboard to monitor KPIs, sales trends, and regional performance for effective decision-making.
+**Technologies:** Power BI
+[**Power BI Link**](https://1drv.ms/p/s!Aon19ecNhTKCgbVybgz7U05w-B3h1Q?e=MvMwSb)
 
 ### US Mass Shootings Analysis
 - **Description:** Utilized Excel and Tableau to uncover a 13% increase in US mass shootings during COVID-19.

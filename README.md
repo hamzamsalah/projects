@@ -48,12 +48,12 @@ Welcome to my portfolio repository! Here, you'll find a collection of my data sc
 ### Concession Baseball Sales Dashboard
 - **Description:** Built a Power BI dashboard to track sales and performance of concessions at baseball games, optimizing inventory and pricing strategies.
 - **Technologies:** Power BI
-- [**Power BI Link**](https://1drv.ms/p/s!Aon19ecNhTKCgbVzZiQHhfKQHrxTLw?e=58TkVt)
+- [**Power BI Link**](https://1drv.ms/b/s!Aon19ecNhTKCgbV3otvzcPOW0CdbVQ?e=PEbRwp)
 
-### Sales Dashboard
+### Store Sales Dashboard
 - **Description:** Designed a Power BI sales dashboard to monitor KPIs, sales trends, and regional performance for effective decision-making.
 - **Technologies:** Power BI
-- [**Power BI Link**](https://1drv.ms/p/s!Aon19ecNhTKCgbVybgz7U05w-B3h1Q?e=MvMwSb)
+- [**Power BI Link**](https://1drv.ms/b/s!Aon19ecNhTKCgbV2V5luyuv5xrMSqg?e=HZkUbN)
 
 ### US Mass Shootings Analysis
 - **Description:** Utilized Excel and Tableau to uncover a 13% increase in US mass shootings during COVID-19.

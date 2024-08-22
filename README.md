@@ -61,7 +61,7 @@ Welcome to my portfolio repository! Here, you'll find a collection of my data sc
 ### US Mass Shootings Analysis
 - **Description:** Utilized Excel and Tableau to uncover a 13% increase in US mass shootings during COVID-19.
 - **Technologies:** Excel, Tableau
-- [**Tableau Link**](https://public.tableau.com/app/profile/hamzasalahds/viz/ShootingsBreakdownintheUS2014-2022/Summary)
+- [**Repository Link**](https://github.com/hamzasalahds/US-Mass-Shootings-Analysis?tab=readme-ov-file#us-mass-shootings-analysis)
 
 ### Investigating Educational Disparities
 - **Description:** Analyzed Open University data using Tableau, revealing a 20% higher failure rate in deprived areas.

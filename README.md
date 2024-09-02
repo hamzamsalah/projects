@@ -63,11 +63,6 @@ Welcome to my portfolio repository! Here, you'll find a collection of my data sc
 - **Technologies:** Excel, Tableau
 - [**Repository Link**](https://github.com/hamzasalahds/US-Mass-Shootings-Analysis?tab=readme-ov-file#us-mass-shootings-analysis)
 
-### Investigating Educational Disparities
-- **Description:** Analyzed Open University data using Tableau, revealing a 20% higher failure rate in deprived areas.
-- **Technologies:** Excel, Tableau
-- [**Tableau Link**](https://public.tableau.com/app/profile/hamzasalahds/viz/StudentGPADemographicsAnalysisDashboardOpenUniversity/StudentGPADemographicsAnalysisDashboard)
-
 ### Covid Case Tracker
 - **Description:** Developed a Tableau dashboard visualizing COVID-19 cases, deaths, and testing data from sources like WHO and CDC.
 - **Technologies:** Tableau

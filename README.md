@@ -1,23 +1,21 @@
 # Data Science Portfolio
 
-Welcome to my portfolio repository! Here, you'll find a collection of my data science projects focused on data analytics, visualization, and programming. Each project demonstrates my ability to turn data into actionable insights using tools like Python, SQL, Power BI, and Tableau.
+**Welcome to my portfolio repository!** 
 
-## Table of Contents
+Here, you'll find a collection of my data science projects focused on data analytics, visualization, and programming. Each project demonstrates my ability to turn data into actionable insights using tools like Python, SQL, Power BI, and Tableau.
 
-1. **[Predictive Modeling Projects](https://github.com/hamzasalahds/projects/blob/main/README.md#1--predictive-modeling-projects)**: Forecasting and predictions using statistical models and machine learning.
-2. **[Data Querying & Management Projects](https://github.com/hamzasalahds/projects/blob/main/README.md#2--data-querying--management-projects)**: SQL and data management projects focusing on database design and querying.
-3. **[Data Analytics Projects](https://github.com/hamzasalahds/projects/blob/main/README.md#3--data-analytics-projects)**: Excel-based analytics and performance tracking projects.
-4. **[Programming Projects](https://github.com/hamzasalahds/projects/blob/main/README.md#4--programming-projects)**: Software development and scripting with Python and APIs.
-5. **[Data Visualization & Reporting Projects](https://github.com/hamzasalahds/projects/blob/main/README.md#5--data-visualization--reporting-projects)**: Data analysis and visualization using tools like Power Bi, Tableau and Excel.
----
-## 1- Predictive Modeling Projects
+<br>
+
+## Predictive Modeling Projects
+**_Forecasting and predictions using statistical models and machine learning._**
 
 ### [Predicting Residential Electricity Consumption Variability Using Temperature & Total Customers](https://github.com/hamzasalahds/electricity-consumption-prediction/blob/main/README.md#-predicting-residential-electricity-consumption-variability-using-temperature--total-customers-)
 - **Description:** Analyzed the impact of temperature and customer count on residential electricity consumption using statistical models. Cleaned and prepared the dataset, performed exploratory data analysis, and developed predictive models to forecast consumption variability.  
 - **Technologies:** R (readxl, dplyr, ggplot2, caret, forecast, lubridate, mgcv)
 <br />
   
-## 2- Data Querying & Management Projects
+## Data Querying & Management Projects
+**_SQL and data management projects focusing on database design and querying._**
 
 ### [Hospital COVID-19 Relational Database](https://github.com/hamzasalahds/hospital_database?tab=readme-ov-file#--covid-19-patient-data-management-system-)
 - **Description:** Designed and implemented a relational database using MySQL to manage COVID-19 data for hospitals, including a user interface for staff.
@@ -25,21 +23,24 @@ Welcome to my portfolio repository! Here, you'll find a collection of my data sc
 <br />
 
 
-## 3- Data Analytics Projects
+## Data Analytics Projects
+**_Excel-based analytics and performance tracking projects._**
 
 ### [Amazon FC - Employee Performance System](https://github.com/hamzasalahds/Amazon_Project/blob/main/README.md#amazon-fc---employee-performance-system)
 - **Description:** Implemented an Excel system containing charts and dashboards to highlight area performance. Achieved a 10% improvement in sorting efficiency, processing over 262,000 items per shift.
 - **Technologies:** Excel
 <br />
 
-## 4- Programming Projects
+## Programming Projects
+**_Software development and scripting with Python and APIs._**
 
 ### [Weather Lookup](https://github.com/hamzasalahds/weather-lookup?tab=readme-ov-file#-dsc-510-programming---bellevue-university)
 - **Description:** Developed a Python program for weather lookup by zip code or city, utilizing the OpenWeatherMap API.
 - **Technologies:** Python, REST API
 <br />
 
-## 5- Data Visualization & Reporting Projects
+## Data Visualization & Reporting Projects
+**_Data analysis and visualization using tools like Power Bi, Tableau and Excel._**
 
 ### [Concession Baseball Sales Dashboard](https://1drv.ms/b/s!Aon19ecNhTKCgbV3dBp83UAYVuoJ1Q?e=H5230v)
 - **Description:** Built a Power BI dashboard to track sales and performance of concessions at baseball games, optimizing inventory and pricing strategies.

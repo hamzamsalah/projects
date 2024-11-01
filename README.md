@@ -1,10 +1,5 @@
-# Data Science Portfolio
+![image](https://github.com/user-attachments/assets/211f70d3-fa3a-4dfc-8d7e-4cff110932d4)
 
-**Welcome to my portfolio repository!** 
-
-Here, you'll find a collection of my data science projects focused on data analytics, visualization, and programming. Each project demonstrates my ability to turn data into actionable insights using tools like Python, SQL, Power BI, and Tableau.
-
-<br>
 
 ## Predictive Modeling Projects
 **_Forecasting and predictions using statistical models and machine learning._**

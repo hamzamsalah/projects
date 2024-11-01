@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/e6773349-e257-48bc-abc7-95366a06995e)
-
+![image](https://github.com/user-attachments/assets/d3abfc95-b1cb-4d7b-a5a7-6a22722ae25a)
 ## Predictive Modeling Projects
 **_Forecasting and predictions using statistical models and machine learning._**
 

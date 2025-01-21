@@ -1,7 +1,7 @@
 # Data Science Portfolio
 
 **Welcome to my portfolio repository!** 
-Here, you'll find a collection of my data science projects focused on data analytics, visualization, and programming. Each project demonstrates my ability to turn data into actionable insights using tools like Python, SQL, Power BI, and Tableau.
+Discover projects showcasing my expertise in analytics, visualization, and machine learning techniques like predictive modeling, clustering, and classification. Using tools like Python, SQL, Power BI, and Tableau, I transform data into insights and recommendations to solve real-world problems.
 
 <be>
 

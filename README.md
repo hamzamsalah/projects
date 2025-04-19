@@ -8,9 +8,9 @@ Discover projects showcasing my expertise in analytics, visualization, and machi
 ## Predictive Modeling Projects
 **_Forecasting and predictions using statistical models and machine learning._**
 
-### [Predicting Residential Electricity Consumption Variability Using Temperature & Total Customers](https://github.com/hamzasalahds/electricity-consumption-prediction/blob/main/README.md#-predicting-residential-electricity-consumption-variability-using-temperature--total-customers-)
-- **Description:** Analyzed the impact of temperature and customer count on residential electricity consumption using statistical models. Cleaned and prepared the dataset, performed exploratory data analysis, and developed predictive models to forecast consumption variability.  
-- **Technologies:** R (readxl, dplyr, ggplot2, caret, forecast, lubridate, mgcv)
+### [Sentiment Analysis of Customer Reviews]()
+- **Description:** 
+- **Technologies:**
 <br />
   
 ## Data Querying & Management Projects

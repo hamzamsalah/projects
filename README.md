@@ -8,9 +8,15 @@ Discover projects showcasing my expertise in analytics, visualization, and machi
 ## Predictive Modeling Projects
 **_Forecasting and predictions using statistical models and machine learning._**
 
+### [Predictive Modeling of Residential Energy Consumption](https://github.com/hamzasalahds/electricity-consumption-prediction/blob/main/README.md#-tennessee-energy-insights)
+- **Description:** Developed regression and ensemble models to predict residential energy consumption based on temperature and pricing data. Analyzed consumption patterns and identified key thresholds for pricing and climate impacts, providing insights to utility providers to improve demand forecasting and energy efficiency planning.
+- **Technologies:** Python, Pandas, Scikit-learn, Matplotlib, Jupyter Notebook, XGBoost, LightGBM
+
+
+
 ### [Sentiment Analysis of Customer Reviews](https://github.com/hamzasalahds/amazon_reviews/blob/main/README.md#--sentiment-analysis-of-customer-reviews--dsc-550-data-mining)
 - **Description:** Analyzed Amazon product reviews to determine customer sentiment using natural language processing techniques. Preprocessed and cleaned review text, extracted features, and applied machine learning models to classify reviews as positive or negative. Evaluated model performance and visualized key insights about customer opinions and product quality. 
-- **Technologies:** : Python, Pandas, Scikit-learn, NLTK, WordCloud, Matplotlib, Jupyter Notebook
+- **Technologies:**Python, Pandas, Scikit-learn, NLTK, WordCloud, Matplotlib, Jupyter Notebook
 <br />
   
 ## Data Querying & Management Projects

@@ -8,8 +8,8 @@ Discover projects showcasing my expertise in analytics, visualization, and machi
 ## Predictive Modeling Projects
 **_Forecasting and predictions using statistical models and machine learning._**
 
-### [Predictive Modeling of Residential Energy Consumption]()
-- **Description:** Developed regression and ensemble models to predict residential energy consumption based on temperature and pricing data. Analyzed consumption patterns and identified key thresholds for pricing and climate impacts, providing insights to utility providers to improve demand forecasting and energy efficiency planning.
+### Predictive Modeling of Residential Energy Consumption
+- **Description:** Developing regression and ensemble models to predict residential energy consumption based on temperature and pricing data, analyzing consumption patterns and identifying key thresholds for pricing and climate impacts, providing insights to utility providers to improve demand forecasting and energy efficiency planning.
 - **Technologies:** Python, Pandas, Scikit-learn, Matplotlib, Jupyter Notebook, XGBoost, LightGBM
 
 

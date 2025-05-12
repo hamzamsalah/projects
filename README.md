@@ -8,9 +8,9 @@ Discover projects showcasing my expertise in analytics, visualization, and machi
 ## Predictive Modeling Projects
 **_Forecasting and predictions using statistical models and machine learning._**
 
-### Predictive Modeling of Residential Energy Consumption
-- **Description:** Developing regression and ensemble models to predict residential energy consumption based on temperature and pricing data, analyzing consumption patterns and identifying key thresholds for pricing and climate impacts, providing insights to utility providers to improve demand forecasting and energy efficiency planning.
-- **Technologies:** Python, Pandas, Scikit-learn, Matplotlib, Jupyter Notebook, XGBoost, LightGBM
+### [Predictive Modeling of Residential Energy Consumption](https://github.com/hamzasalahds/Electricity_Consumption_in_TN?tab=readme-ov-file#tennessee-energy-consumption-forecasting)
+- **Description:** Developed time series and regression models (ARIMA, Multiple Linear Regression) to forecast residential energy consumption in Tennessee using historical temperature and pricing data. Conducted exploratory data analysis to uncover sector-specific trends and provided strategic insights for utility demand management and efficiency planning.
+- **Technologies:** Python, Pandas, NumPy, Statsmodels, pmdarima, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebook
 
 
 

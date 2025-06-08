@@ -12,12 +12,16 @@ Discover projects showcasing my expertise in analytics, visualization, and machi
 - **Description:** Developed time series and regression models (ARIMA, Multiple Linear Regression) to forecast residential energy consumption in Tennessee using historical temperature and pricing data. Conducted exploratory data analysis to uncover sector-specific trends and provided strategic insights for utility demand management and efficiency planning.
 - **Technologies:** Python, Pandas, NumPy, Statsmodels, pmdarima, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebook
 
-
-
 ### [Sentiment Analysis of Customer Reviews](https://github.com/hamzasalahds/amazon_reviews/blob/main/README.md#--sentiment-analysis-of-customer-reviews--dsc-550-data-mining)
 - **Description:** Analyzed Amazon product reviews to determine customer sentiment using natural language processing techniques. Preprocessed and cleaned review text, extracted features, and applied machine learning models to classify reviews as positive or negative. Evaluated model performance and visualized key insights about customer opinions and product quality. 
 - **Technologies:** Python, Pandas, Scikit-learn, NLTK, WordCloud, Matplotlib, Jupyter Notebook
+
+### [DSC 630 Predictive Analytics: Time Series Analysis of US Retail Sales]()
+**Description:** Forecasted US monthly retail sales (1992–2021) using an ARIMA model to predict trends post-COVID-19. Preprocessed wide-format data into a time series, visualized sales trends, and evaluated model performance with an RMSE of $52,207. Identified a sharp pandemic-related dip in 2020 and subsequent recovery, providing insights for retail planning.
+**Technologies:** Python, Pandas, NumPy, Statsmodels, Matplotlib, Scikit-learn, Jupyter Notebook
+
 <br />
+
   
 ## Data Querying & Management Projects
 **_SQL and data management projects focusing on database design and querying._**
@@ -30,6 +34,10 @@ Discover projects showcasing my expertise in analytics, visualization, and machi
 
 ## Data Analytics Projects
 **_Excel-based analytics and performance tracking projects._**
+
+### [Bellevue University - DSC 630: Using Data to Improve MLB Attendance]()
+- **Description:** Analyzed Los Angeles Dodgers 2022 game data to identify factors influencing attendance, such as promotions, weather, and day of the week. Utilized exploratory data analysis, correlation analysis, and linear regression to quantify the impact of giveaways (e.g., bobbleheads increased attendance by ~14,944 fans). Provided recommendations to optimize promotions and scheduling, boosting attendance during low-turnout periods.
+- **Technologies:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebook
 
 ### [Amazon FC - Employee Performance System](https://github.com/hamzasalahds/Amazon_Project/blob/main/README.md#amazon-fc---employee-performance-system)
 - **Description:** Implemented an Excel system containing charts and dashboards to highlight area performance. Achieved a 10% improvement in sorting efficiency, processing over 262,000 items per shift.
@@ -46,6 +54,12 @@ Discover projects showcasing my expertise in analytics, visualization, and machi
 
 ## Data Visualization & Reporting Projects
 **_Data analysis and visualization using tools like Power Bi, Tableau and Excel._**
+
+### [TSA Complaints Analysis](https://1drv.ms/b/s!Aon19ecNhTKCgbV3dBp83UAYVuoJ1Q?e=H5230v)
+- **Description:** Built a Power BI dashboard to track TSA Complaints in the US.
+- **Technologies:** Power BI
+- [**PBIX File Download**](https://1drv.ms/u/c/8232850de7f5f589/EXUyE0Ey2nlPqeCvx5i56IsBPWECKbIcLeAXn_mtwZiYjg?e=HHIfsX)
+
 
 ### [Concession Baseball Sales Dashboard](https://1drv.ms/b/s!Aon19ecNhTKCgbV3dBp83UAYVuoJ1Q?e=H5230v)
 - **Description:** Built a Power BI dashboard to track sales and performance of concessions at baseball games, optimizing inventory and pricing strategies.

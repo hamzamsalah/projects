@@ -65,6 +65,7 @@ Discover projects showcasing my expertise in analytics, visualization, and machi
 - [**PBIX File Download**](https://1drv.ms/u/c/8232850de7f5f589/EXUyE0Ey2nlPqeCvx5i56IsBPWECKbIcLeAXn_mtwZiYjg?e=HHIfsX)
 
 <br>
+
 ### [Concession Baseball Sales Dashboard](https://1drv.ms/b/s!Aon19ecNhTKCgbV3dBp83UAYVuoJ1Q?e=H5230v)
 - **Description:** Built a Power BI dashboard to track sales and performance of concessions at baseball games, optimizing inventory and pricing strategies.
 - **Technologies:** Power BI

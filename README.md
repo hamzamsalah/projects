@@ -12,9 +12,13 @@ Discover projects showcasing my expertise in analytics, visualization, and machi
 - **Description:** Developed time series and regression models (ARIMA, Multiple Linear Regression) to forecast residential energy consumption in Tennessee using historical temperature and pricing data. Conducted exploratory data analysis to uncover sector-specific trends and provided strategic insights for utility demand management and efficiency planning.
 - **Technologies:** Python, Pandas, NumPy, Statsmodels, pmdarima, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebook
 
+<be>
+
 ### [Sentiment Analysis of Customer Reviews](https://github.com/hamzasalahds/amazon_reviews/blob/main/README.md#--sentiment-analysis-of-customer-reviews--dsc-550-data-mining)
 - **Description:** Analyzed Amazon product reviews to determine customer sentiment using natural language processing techniques. Preprocessed and cleaned review text, extracted features, and applied machine learning models to classify reviews as positive or negative. Evaluated model performance and visualized key insights about customer opinions and product quality. 
 - **Technologies:** Python, Pandas, Scikit-learn, NLTK, WordCloud, Matplotlib, Jupyter Notebook
+
+<be>
 
 ### [DSC 630 Predictive Analytics: Time Series Analysis of US Retail Sales]()
 - **Description:** Forecasted US monthly retail sales (1992–2021) using an ARIMA model to predict trends post-COVID-19. Preprocessed wide-format data into a time series, visualized sales trends, and evaluated model performance with an RMSE of $52,207. Identified a sharp pandemic-related dip in 2020 and subsequent recovery, providing insights for retail planning.
@@ -60,7 +64,7 @@ Discover projects showcasing my expertise in analytics, visualization, and machi
 - **Technologies:** Power BI
 - [**PBIX File Download**](https://1drv.ms/u/c/8232850de7f5f589/EXUyE0Ey2nlPqeCvx5i56IsBPWECKbIcLeAXn_mtwZiYjg?e=HHIfsX)
 
-
+<br>
 ### [Concession Baseball Sales Dashboard](https://1drv.ms/b/s!Aon19ecNhTKCgbV3dBp83UAYVuoJ1Q?e=H5230v)
 - **Description:** Built a Power BI dashboard to track sales and performance of concessions at baseball games, optimizing inventory and pricing strategies.
 - **Technologies:** Power BI

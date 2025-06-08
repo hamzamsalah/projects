@@ -17,8 +17,8 @@ Discover projects showcasing my expertise in analytics, visualization, and machi
 - **Technologies:** Python, Pandas, Scikit-learn, NLTK, WordCloud, Matplotlib, Jupyter Notebook
 
 ### [DSC 630 Predictive Analytics: Time Series Analysis of US Retail Sales]()
-**Description:** Forecasted US monthly retail sales (1992–2021) using an ARIMA model to predict trends post-COVID-19. Preprocessed wide-format data into a time series, visualized sales trends, and evaluated model performance with an RMSE of $52,207. Identified a sharp pandemic-related dip in 2020 and subsequent recovery, providing insights for retail planning.
-**Technologies:** Python, Pandas, NumPy, Statsmodels, Matplotlib, Scikit-learn, Jupyter Notebook
+- **Description:** Forecasted US monthly retail sales (1992–2021) using an ARIMA model to predict trends post-COVID-19. Preprocessed wide-format data into a time series, visualized sales trends, and evaluated model performance with an RMSE of $52,207. Identified a sharp pandemic-related dip in 2020 and subsequent recovery, providing insights for retail planning.
+- **Technologies:** Python, Pandas, NumPy, Statsmodels, Matplotlib, Scikit-learn, Jupyter Notebook
 
 <br />
 

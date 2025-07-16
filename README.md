@@ -26,6 +26,15 @@ Discover projects showcasing my expertise in analytics, visualization, and machi
 
 <br />
 
+
+## Social Impact Projects  
+**_Data-driven insights and recommendations to empower communities and address social challenges._**
+
+### [Empowering Mothers: Bridging the Gap to Professional Success](https://github.com/hamzasalahds/bridge-the-gap?tab=readme-ov-file#empowering-mothers-bridging-the-gap-to-professional-success)
+- **Description:** Analyzed childcare affordability and its effects on maternal workforce participation using multi-year national data. Developed evidence-based recommendations to support mothers through policy and employer initiatives.
+- **Technologies:** PowerBI & Excel
+
+<br />
   
 ## Data Querying & Management Projects
 **_SQL and data management projects focusing on database design and querying._**

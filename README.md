@@ -30,9 +30,9 @@ Discover projects showcasing my expertise in analytics, visualization, and machi
 **_Data-driven insights and recommendations to empower communities and address social challenges._**
 
 ### [Empowering Mothers: Bridging the Gap to Professional Success](https://github.com/hamzasalahds/bridge-the-gap?tab=readme-ov-file#empowering-mothers-bridging-the-gap-to-professional-success)
-- **Description:** Analyzed childcare affordability and its effects on maternal workforce participation using multi-year national data. Developed evidence-based recommendations to support mothers through policy and employer initiatives.
-- **Technologies:** PowerBi, Excel
-
+- **Description:** Visualized national data to examine the impact of childcare costs on mothers' workforce participation. Highlighted gender disparities in earnings, unemployment, and job types. Provided data-driven recommendations for policy reforms and employer support programs.
+- **Technologies:** Power BI, Excel
+- 
 <br />
   
 ## Data Querying & Management Projects

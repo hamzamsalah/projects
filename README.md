@@ -36,7 +36,7 @@ Discover projects showcasing my expertise in analytics, visualization, and machi
 - **Technologies:** Power BI, Excel
 <br />
  
-## Data Querying & Management Projects
+## Data Querying / Management Projects
 
 ***SQL and data management projects focusing on database design and querying.***
 [Hospital COVID-19 Relational Database](https://github.com/hamzasalahds/hospital_database?tab=readme-ov-file#--covid-19-patient-data-management-system-)

@@ -3,15 +3,13 @@
 **Welcome to my portfolio repository!**  
 Explore projects showcasing my expertise in analytics, visualization, and machine learning. Using tools like Python, SQL, Power BI, and Tableau, I transform data into insights and recommendations to solve real-world problems.
 
----
-
 ## 🔹 Projects
 
 <details>
 <summary><a href="https://github.com/hamzasalahds/Electricity_Consumption_in_TN?tab=readme-ov-file#tennessee-energy-consumption-forecasting">Predictive Modeling of Residential Energy Consumption</a></summary>
 
-- **Description:** Developed time series and regression models (ARIMA, Multiple Linear Regression) to forecast residential energy consumption in Tennessee using historical temperature and pricing data. Conducted exploratory data analysis to uncover sector-specific trends and provided strategic insights for utility demand management and efficiency planning.  
-- **Technologies:** Python, Pandas, NumPy, Statsmodels, pmdarima, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebook  
+**Description:** Developed time series and regression models (ARIMA, Multiple Linear Regression) to forecast residential energy consumption in Tennessee using historical temperature and pricing data. Conducted exploratory data analysis to uncover sector-specific trends and provided strategic insights for utility demand management and efficiency planning.  
+**Technologies:** Python, Pandas, NumPy, Statsmodels, pmdarima, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebook  
 
 </details>
 

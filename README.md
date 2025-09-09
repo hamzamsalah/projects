@@ -5,7 +5,7 @@ Discover projects showcasing my expertise in analytics, visualization, and machi
 
 
 
-## Predictive Modeling Projects  
+### Predictive Modeling Projects  
 ***Forecasting and predictions using statistical models and machine learning.***
 
 <details>
@@ -34,7 +34,7 @@ Discover projects showcasing my expertise in analytics, visualization, and machi
 
 
 
-## Social Impact Projects  
+### Social Impact Projects  
 ***Data-driven insights and recommendations to empower communities and address social challenges.***
 
 <details>
@@ -47,7 +47,7 @@ Discover projects showcasing my expertise in analytics, visualization, and machi
 
 
 
-## Data Querying & Management Projects  
+### Data Querying & Management Projects  
 ***SQL and data management projects focusing on database design and querying.***
 
 <details>
@@ -60,7 +60,7 @@ Discover projects showcasing my expertise in analytics, visualization, and machi
 
 ---
 
-## Data Analytics Projects  
+### Data Analytics Projects  
 ***Excel-based analytics and performance tracking projects.***
 
 <details>
@@ -81,7 +81,7 @@ Discover projects showcasing my expertise in analytics, visualization, and machi
 
 ---
 
-## Programming Projects  
+### Programming Projects  
 **_Software development and scripting with Python and APIs._**
 
 <details>
@@ -94,7 +94,7 @@ Discover projects showcasing my expertise in analytics, visualization, and machi
 
 ---
 
-## Data Visualization & Reporting Projects  
+### Data Visualization & Reporting Projects  
 **_Data analysis and visualization using tools like Power BI, Tableau and Excel._**
 
 <details>

@@ -6,7 +6,6 @@ Discover projects showcasing my expertise in analytics, visualization, and machi
 <be>
 
 ## Predictive Modeling Projects
-***Forecasting and predictions using statistical models and machine learning.***
 
 ### [Predictive Modeling of Residential Energy Consumption](https://github.com/hamzasalahds/Electricity_Consumption_in_TN?tab=readme-ov-file#tennessee-energy-consumption-forecasting)
 - **Description:** Developed time series and regression models (ARIMA, Multiple Linear Regression) to forecast residential energy consumption in Tennessee using historical temperature and pricing data. Conducted exploratory data analysis to uncover sector-specific trends and provided strategic insights for utility demand management and efficiency planning.

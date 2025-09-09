@@ -41,6 +41,7 @@ Discover projects showcasing my expertise in analytics, visualization, and machi
 ## Data Querying & Management Projects
 
 ***SQL and data management projects focusing on database design and querying.***
+
 [Hospital COVID-19 Relational Database](https://github.com/hamzasalahds/hospital_database?tab=readme-ov-file#--covid-19-patient-data-management-system-)
 - **Description:** Designed and implemented a relational database using MySQL to manage COVID-19 data for hospitals, including a user interface for staff.
 - **Technologies:** MySQL
@@ -54,7 +55,7 @@ Discover projects showcasing my expertise in analytics, visualization, and machi
 - **Description:** Analyzed Los Angeles Dodgers 2022 game data to identify factors influencing attendance, such as promotions, weather, and day of the week. Utilized exploratory data analysis, correlation analysis, and linear regression to quantify the impact of giveaways (e.g., bobbleheads increased attendance by ~14,944 fans). Provided recommendations to optimize promotions and scheduling, boosting attendance during low-turnout periods.
 - **Technologies:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebook
 
-[Amazon FC - Employee Performance System (https://github.com/hamzasalahds/Amazon_Project/blob/main/README.md#amazon-fc---employee-performance-system)
+[Amazon FC - Employee Performance System](https://github.com/hamzasalahds/Amazon_Project/blob/main/README.md#amazon-fc---employee-performance-system)
 - **Description:** Implemented an Excel system containing charts and dashboards to highlight area performance. Achieved a 10% improvement in sorting efficiency, processing over 262,000 items per shift.
 - **Technologies:** Excel
 <br />

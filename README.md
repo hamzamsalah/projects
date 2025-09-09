@@ -3,11 +3,6 @@
 **Welcome to my portfolio repository!**  
 Discover projects showcasing my expertise in analytics, visualization, and machine learning techniques like predictive modeling, clustering, and classification. Using tools like Python, SQL, Power BI, and Tableau, I transform data into insights and recommendations to solve real-world problems.
 
-
-
-### Predictive Modeling Projects  
-***Forecasting and predictions using statistical models and machine learning.***
-
 <details>
 <summary><a href="https://github.com/hamzasalahds/Electricity_Consumption_in_TN?tab=readme-ov-file#tennessee-energy-consumption-forecasting">Predictive Modeling of Residential Energy Consumption</a></summary>
 
@@ -32,11 +27,6 @@ Discover projects showcasing my expertise in analytics, visualization, and machi
 
 </details>
 
-
-
-### Social Impact Projects  
-***Data-driven insights and recommendations to empower communities and address social challenges.***
-
 <details>
 <summary><a href="https://github.com/hamzasalahds/bridge-the-gap?tab=readme-ov-file#empowering-mothers-bridging-the-gap-to-professional-success">Empowering Mothers: Bridging the Gap to Professional Success</a></summary>
 
@@ -45,11 +35,6 @@ Discover projects showcasing my expertise in analytics, visualization, and machi
 
 </details>
 
-
-
-### Data Querying & Management Projects  
-***SQL and data management projects focusing on database design and querying.***
-
 <details>
 <summary><a href="https://github.com/hamzasalahds/hospital_database?tab=readme-ov-file#--covid-19-patient-data-management-system-">Hospital COVID-19 Relational Database</a></summary>
 
@@ -57,11 +42,6 @@ Discover projects showcasing my expertise in analytics, visualization, and machi
 - **Technologies:** MySQL  
 
 </details>
-
----
-
-### Data Analytics Projects  
-***Excel-based analytics and performance tracking projects.***
 
 <details>
 <summary>Bellevue University - DSC 630: Using Data to Improve MLB Attendance</summary>
@@ -78,12 +58,6 @@ Discover projects showcasing my expertise in analytics, visualization, and machi
 - **Technologies:** Excel  
 
 </details>
-
----
-
-### Programming Projects  
-**_Software development and scripting with Python and APIs._**
-
 <details>
 <summary><a href="https://github.com/hamzasalahds/weather-lookup?tab=readme-ov-file#-dsc-510-programming---bellevue-university">Weather Lookup</a></summary>
 
@@ -91,12 +65,6 @@ Discover projects showcasing my expertise in analytics, visualization, and machi
 - **Technologies:** Python, REST API  
 
 </details>
-
----
-
-### Data Visualization & Reporting Projects  
-**_Data analysis and visualization using tools like Power BI, Tableau and Excel._**
-
 <details>
 <summary><a href="https://1drv.ms/b/c/8232850de7f5f589/ESPpzVVPixdFihRHDNWBOhABzqXMPMurhiZHJnLCG5iLAg?e=vBAqzX">TSA Complaints Analysis</a></summary>
 

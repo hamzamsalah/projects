@@ -1,140 +1,115 @@
-📊 Data Science Portfolio
+## Data Science Portfolio
 
-Welcome to my portfolio repository!
-Explore projects showcasing my expertise in analytics, visualization, and machine learning techniques such as predictive modeling, clustering, and classification. I use tools like Python, SQL, Power BI, and Tableau to transform data into actionable insights and recommendations for solving real-world problems.
+**Welcome to my portfolio repository!** 
+Discover projects showcasing my expertise in analytics, visualization, and machine learning techniques like predictive modeling, clustering, and classification. Using tools like Python, SQL, Power BI, and Tableau, I transform data into insights and recommendations to solve real-world problems.
 
-🔮 Predictive Modeling Projects
+<be>
 
-Forecasting and predictions using statistical models and machine learning.
+## Predictive Modeling Projects
+***Forecasting and predictions using statistical models and machine learning.***
 
-Predictive Modeling of Residential Energy Consumption
+### [Predictive Modeling of Residential Energy Consumption](https://github.com/hamzasalahds/Electricity_Consumption_in_TN?tab=readme-ov-file#tennessee-energy-consumption-forecasting)
+- **Description:** Developed time series and regression models (ARIMA, Multiple Linear Regression) to forecast residential energy consumption in Tennessee using historical temperature and pricing data. Conducted exploratory data analysis to uncover sector-specific trends and provided strategic insights for utility demand management and efficiency planning.
+- **Technologies:** Python, Pandas, NumPy, Statsmodels, pmdarima, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebook
+Q
+<be>
 
-Description: Built time series and regression models (ARIMA, Multiple Linear Regression) to forecast residential energy consumption in Tennessee using historical temperature and pricing data. Conducted exploratory analysis to uncover sector-specific trends and provided insights for demand management and efficiency planning.
+### [Sentiment Analysis of Customer Reviews](https://github.com/hamzasalahds/amazon_reviews/blob/main/README.md#--sentiment-analysis-of-customer-reviews--dsc-550-data-mining)
+- **Description:** Analyzed Amazon product reviews to determine customer sentiment using natural language processing techniques. Preprocessed and cleaned review text, extracted features, and applied machine learning models to classify reviews as positive or negative. Evaluated model performance and visualized key insights about customer opinions and product quality. 
+- **Technologies:** Python, Pandas, Scikit-learn, NLTK, WordCloud, Matplotlib, Jupyter Notebook
 
-Technologies: Python, Pandas, NumPy, Statsmodels, pmdarima, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebook
+<be>
 
-<br />
-Sentiment Analysis of Customer Reviews
-
-Description: Analyzed Amazon product reviews with natural language processing. Preprocessed text, extracted features, and applied machine learning models to classify reviews as positive or negative. Visualized insights on customer sentiment and product quality.
-
-Technologies: Python, Pandas, Scikit-learn, NLTK, WordCloud, Matplotlib, Jupyter Notebook
-
-<br />
-DSC 630 Predictive Analytics: Time Series Analysis of US Retail Sales
-
-Description: Forecasted US monthly retail sales (1992–2021) using ARIMA to predict post-COVID-19 trends. Transformed wide-format data into a time series, visualized trends, and achieved an RMSE of $52,207. Provided insights on the pandemic-related dip in 2020 and subsequent recovery.
-
-Technologies: Python, Pandas, NumPy, Statsmodels, Matplotlib, Scikit-learn, Jupyter Notebook
-
-🌍 Social Impact Projects
-
-Data-driven insights and recommendations to empower communities and address social challenges.
-
-Empowering Mothers: Bridging the Gap to Professional Success
-
-Description: Visualized national data to examine the impact of childcare costs on mothers' workforce participation. Highlighted disparities in earnings, unemployment, and job types, with recommendations for policy reform and employer support programs.
-
-Technologies: Power BI, Excel
-
-🗄️ Data Querying & Management Projects
-
-SQL and database management projects focusing on design and querying.
-
-Hospital COVID-19 Relational Database
-
-Description: Designed and implemented a relational database using MySQL to manage COVID-19 data for hospitals, including a staff-facing interface.
-
-Technologies: MySQL
-
-📈 Data Analytics Projects
-
-Analytics and performance tracking using Python and Excel.
-
-Bellevue University – DSC 630: Using Data to Improve MLB Attendance
-
-Description: Analyzed Los Angeles Dodgers 2022 game data to identify factors influencing attendance (promotions, weather, day of week). Found bobblehead giveaways boosted attendance by ~14,944 fans. Recommendations optimized promotions and scheduling to increase turnout.
-
-Technologies: Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebook
+### [DSC 630 Predictive Analytics: Time Series Analysis of US Retail Sales]()
+- **Description:** Forecasted US monthly retail sales (1992–2021) using an ARIMA model to predict trends post-COVID-19. Preprocessed wide-format data into a time series, visualized sales trends, and evaluated model performance with an RMSE of $52,207. Identified a sharp pandemic-related dip in 2020 and subsequent recovery, providing insights for retail planning.
+- **Technologies:** Python, Pandas, NumPy, Statsmodels, Matplotlib, Scikit-learn, Jupyter Notebook
 
 <br />
-Amazon FC – Employee Performance System
 
-Description: Developed an Excel dashboard highlighting performance metrics. Improved sorting efficiency by 10%, processing over 262,000 items per shift.
+## Social Impact Projects 
+***Data-driven insights and recommendations to empower communities and address social challenges.***
 
-Technologies: Excel
-
-💻 Programming Projects
-
-Software development and scripting with Python and APIs.
-
-Weather Lookup
-
-Description: Built a Python program for weather lookup by zip code or city using the OpenWeatherMap API.
-
-Technologies: Python, REST API
-
-📊 Data Visualization & Reporting Projects
-
-Interactive dashboards and visual reporting using Power BI, Tableau, and Excel.
-
-TSA Complaints Analysis
-
-Description: Developed a Power BI dashboard to monitor TSA complaints across the US.
-
-Technologies: Power BI
-
-PBIX Download
-
+### [Empowering Mothers: Bridging the Gap to Professional Success](https://github.com/hamzasalahds/bridge-the-gap?tab=readme-ov-file#empowering-mothers-bridging-the-gap-to-professional-success)
+- **Description:** Visualized national data to examine the impact of childcare costs on mothers' workforce participation. Highlighted gender disparities in earnings, unemployment, and job types. Provided data-driven recommendations for policy reforms and employer support programs.
+- **Technologies:** Power BI, Excel
 <br />
-Concession Baseball Sales Dashboard
-
-Description: Built a Power BI dashboard to track concession sales at baseball games, optimizing inventory and pricing strategies.
-
-Technologies: Power BI
-
-PBIX Download
-
+ 
+## Data Querying & Management Projects
+***SQL and data management projects focusing on database design and querying.***
+### [Hospital COVID-19 Relational Database](https://github.com/hamzasalahds/hospital_database?tab=readme-ov-file#--covid-19-patient-data-management-system-)
+- **Description:** Designed and implemented a relational database using MySQL to manage COVID-19 data for hospitals, including a user interface for staff.
+- **Technologies:** MySQL
 <br />
-Store Sales Dashboard
 
-Description: Designed a Power BI sales dashboard to monitor KPIs, trends, and regional performance for decision-making.
 
-Technologies: Power BI
+## Data Analytics Projects
+***Excel-based analytics and performance tracking projects.***
 
-PBIX Download
+### [Bellevue University - DSC 630: Using Data to Improve MLB Attendance]()
+- **Description:** Analyzed Los Angeles Dodgers 2022 game data to identify factors influencing attendance, such as promotions, weather, and day of the week. Utilized exploratory data analysis, correlation analysis, and linear regression to quantify the impact of giveaways (e.g., bobbleheads increased attendance by ~14,944 fans). Provided recommendations to optimize promotions and scheduling, boosting attendance during low-turnout periods.
+- **Technologies:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebook
 
+### [Amazon FC - Employee Performance System](https://github.com/hamzasalahds/Amazon_Project/blob/main/README.md#amazon-fc---employee-performance-system)
+- **Description:** Implemented an Excel system containing charts and dashboards to highlight area performance. Achieved a 10% improvement in sorting efficiency, processing over 262,000 items per shift.
+- **Technologies:** Excel
 <br />
-US Mass Shootings Analysis
 
-Description: Used Excel and Tableau to analyze mass shootings in the US, finding a 13% increase during COVID-19.
+## Programming Projects
+**_Software development and scripting with Python and APIs._**
 
-Technologies: Excel, Tableau
-
+### [Weather Lookup](https://github.com/hamzasalahds/weather-lookup?tab=readme-ov-file#-dsc-510-programming---bellevue-university)
+- **Description:** Developed a Python program for weather lookup by zip code or city, utilizing the OpenWeatherMap API.
+- **Technologies:** Python, REST API
 <br />
-Covid Case Tracker
 
-Description: Tableau dashboard tracking global COVID-19 cases, deaths, and testing from WHO and CDC.
+## Data Visualization & Reporting Projects
+**_Data analysis and visualization using tools like Power Bi, Tableau and Excel._**
 
-Technologies: Tableau
+### [TSA Complaints Analysis](https://1drv.ms/b/c/8232850de7f5f589/ESPpzVVPixdFihRHDNWBOhABzqXMPMurhiZHJnLCG5iLAg?e=vBAqzX)
+- **Description:** Built a Power BI dashboard to track TSA Complaints in the US.
+- **Technologies:** Power BI
+- [**PBIX File Download**](https://1drv.ms/u/c/8232850de7f5f589/EXUyE0Ey2nlPqeCvx5i56IsBPWECKbIcLeAXn_mtwZiYjg?e=HHIfsX)
 
-<br />
-Timely & Effective Care Across the US
+<br>
 
-Description: Tableau dashboard using CMS data to help patients compare hospitals based on quality-of-care metrics.
+### [Concession Baseball Sales Dashboard](https://1drv.ms/b/s!Aon19ecNhTKCgbV3dBp83UAYVuoJ1Q?e=H5230v)
+- **Description:** Built a Power BI dashboard to track sales and performance of concessions at baseball games, optimizing inventory and pricing strategies.
+- **Technologies:** Power BI
+- [**PBIX File Download**](https://1drv.ms/u/s!Aon19ecNhTKCgbV1IqDZlEuzG5nALQ?e=B9U4pA)
 
-Technologies: Tableau
+<br>
 
-<br />
-Home Values in TN
+### [Store Sales Dashboard](https://1drv.ms/b/s!Aon19ecNhTKCgbV20rEKJWOOHrFJWQ?e=P2fepE)
+- **Description:** Designed a Power BI sales dashboard to monitor KPIs, sales trends, and regional performance for effective decision-making.
+- **Technologies:** Power BI
+- [**PBIX File Download**](https://1drv.ms/u/s!Aon19ecNhTKCgbV0q8GDJZefIUDHEw?e=f07fRR)
+ 
+<br>
 
-Description: Analyzed Zillow data on home values in Tennessee (2000–2022) with an interactive Tableau dashboard by zip code.
+### [US Mass Shootings Analysis](https://github.com/hamzasalahds/US-Mass-Shootings-Analysis?tab=readme-ov-file#us-mass-shootings-analysis)
+- **Description:** Utilized Excel and Tableau to uncover a 13% increase in US mass shootings during COVID-19.
+- **Technologies:** Excel, Tableau
 
-Technologies: Excel, Tableau
+<br>
 
-<br />
-Open University – GPA & Demographics Analysis
+### [Covid Case Tracker](https://public.tableau.com/app/profile/hamzasalahds/viz/GlobalCOVID-19CaseTracker/Covid-19CaseTracker)
+- **Description:** Developed a Tableau dashboard visualizing COVID-19 cases, deaths, and testing data from sources like WHO and CDC.
+- **Technologies:** Tableau
 
-Description: Examined Open University student data, identifying correlations between GPA and demographics.
+<br>
 
-Technologies: Excel, Tableau
+### [Timely & Effective Care Across the US](https://public.tableau.com/app/profile/hamzasalahds/viz/TimelyEffectiveCarebyHospitalinTheUnitedStatesDashboardCMS/TimelyEffectiveCarebyHospitalinTheUnitedStatesDashboardCMS)
+- **Description:** Created a Tableau dashboard for CMS data to help patients choose the best hospital based on quality of care metrics.
+- **Technologies:** Tableau, Data Visualization
+
+<br>
+
+### [Home Values in TN](https://public.tableau.com/app/profile/hamzasalahds/viz/Single-FamilyHomeValuesinTennesseeDashboardZillow/Dashboard)
+- **Description:** Analyzed Zillow data on home values in Tennessee from 2000 to 2022, creating an interactive Tableau dashboard to display value changes by zip code.
+- **Technologies:** Excel, Tableau
+ 
+<br>
+
+### [Open University Student GPA & Demographics Analysis](https://public.tableau.com/app/profile/hamzasalahds/viz/StudentGPADemographicsAnalysisDashboardOpenUniversity/StudentGPADemographicsAnalysisDashboard)
+- **Description:** Analyzed data from Open University, identifying correlations between GPA and demographics using Tableau.
+- **Technologies:** Excel, Tableau

@@ -8,15 +8,17 @@ Explore projects showcasing my expertise in analytics, visualization, and machin
 <details>
 <summary><a href="https://github.com/hamzasalahds/Electricity_Consumption_in_TN?tab=readme-ov-file#tennessee-energy-consumption-forecasting">Predictive Modeling of Residential Energy Consumption</a></summary>
 
-**Description:** Developed time series and regression models (ARIMA, Multiple Linear Regression) to forecast residential energy consumption in Tennessee using historical temperature and pricing data. Conducted exploratory data analysis to uncover sector-specific trends and provided strategic insights for utility demand management and efficiency planning.  
-**Technologies:** Python, Pandas, NumPy, Statsmodels, pmdarima, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebook  
+- **Description:** Developed time series and regression models (ARIMA, Multiple Linear Regression) to forecast residential energy consumption in Tennessee using historical temperature and pricing data. Conducted exploratory data analysis to uncover sector-specific trends and provided strategic insights for utility demand management and efficiency planning.  
+
+- **Technologies:** Python, Pandas, NumPy, Statsmodels, pmdarima, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebook  
 
 </details>
 
 <details>
 <summary><a href="https://github.com/hamzasalahds/amazon_reviews/blob/main/README.md#--sentiment-analysis-of-customer-reviews--dsc-550-data-mining">Sentiment Analysis of Customer Reviews</a></summary>
 
-- **Description:** Analyzed Amazon product reviews to determine customer sentiment using natural language processing techniques. Preprocessed and cleaned review text, extracted features, and applied machine learning models to classify reviews as positive or negative. Evaluated model performance and visualized key insights about customer opinions and product quality.  
+- **Description:** Analyzed Amazon product reviews to determine customer sentiment using natural language processing techniques. Preprocessed and cleaned review text, extracted features, and applied machine learning models to classify reviews as positive or negative. Evaluated model performance and visualized key insights about customer opinions and product quality.
+
 - **Technologies:** Python, Pandas, Scikit-learn, NLTK, WordCloud, Matplotlib, Jupyter Notebook  
 
 </details>

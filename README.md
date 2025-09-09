@@ -28,6 +28,7 @@ Discover projects showcasing my expertise in analytics, visualization, and machi
 <br />
 
 ## Social Impact Projects 
+
 ***Data-driven insights and recommendations to empower communities and address social challenges.***
 
 [Empowering Mothers: Bridging the Gap to Professional Success](https://github.com/hamzasalahds/bridge-the-gap?tab=readme-ov-file#empowering-mothers-bridging-the-gap-to-professional-success)
@@ -36,6 +37,7 @@ Discover projects showcasing my expertise in analytics, visualization, and machi
 <br />
  
 ## Data Querying & Management Projects
+
 ***SQL and data management projects focusing on database design and querying.***
 [Hospital COVID-19 Relational Database](https://github.com/hamzasalahds/hospital_database?tab=readme-ov-file#--covid-19-patient-data-management-system-)
 - **Description:** Designed and implemented a relational database using MySQL to manage COVID-19 data for hospitals, including a user interface for staff.

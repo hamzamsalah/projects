@@ -1,5 +1,3 @@
-# 📊 Data Science Portfolio
-
 Welcome to my portfolio repository!  
 Explore projects showcasing my expertise in analytics, visualization, and machine learning.
 

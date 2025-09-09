@@ -1,9 +1,11 @@
-## Data Science Portfolio
+# 📊 Data Science Portfolio
 
 **Welcome to my portfolio repository!**  
-Discover projects showcasing my expertise in analytics, visualization, and machine learning techniques like predictive modeling, clustering, and classification. Using tools like Python, SQL, Power BI, and Tableau, I transform data into insights and recommendations to solve real-world problems.
+Explore projects showcasing my expertise in analytics, visualization, and machine learning. Using tools like Python, SQL, Power BI, and Tableau, I transform data into insights and recommendations to solve real-world problems.
 
 ---
+
+## 🔹 Projects
 
 <details>
 <summary><a href="https://github.com/hamzasalahds/Electricity_Consumption_in_TN?tab=readme-ov-file#tennessee-energy-consumption-forecasting">Predictive Modeling of Residential Energy Consumption</a></summary>
@@ -60,6 +62,7 @@ Discover projects showcasing my expertise in analytics, visualization, and machi
 - **Technologies:** Excel  
 
 </details>
+
 <details>
 <summary><a href="https://github.com/hamzasalahds/weather-lookup?tab=readme-ov-file#-dsc-510-programming---bellevue-university">Weather Lookup</a></summary>
 
@@ -67,12 +70,13 @@ Discover projects showcasing my expertise in analytics, visualization, and machi
 - **Technologies:** Python, REST API  
 
 </details>
+
 <details>
 <summary><a href="https://1drv.ms/b/c/8232850de7f5f589/ESPpzVVPixdFihRHDNWBOhABzqXMPMurhiZHJnLCG5iLAg?e=vBAqzX">TSA Complaints Analysis</a></summary>
 
 - **Description:** Built a Power BI dashboard to track TSA Complaints in the US.  
 - **Technologies:** Power BI  
-- [**PBIX File Download**](https://1drv.ms/u/c/8232850de7f5f589/EXUyE0Ey2nlPqeCvx5i56IsBPWECKbIcLeAXn_mtwZiYjg?e=HHIfsX)  
+- 📂 [**PBIX File Download**](https://1drv.ms/u/c/8232850de7f5f589/EXUyE0Ey2nlPqeCvx5i56IsBPWECKbIcLeAXn_mtwZiYjg?e=HHIfsX)  
 
 </details>
 
@@ -81,7 +85,7 @@ Discover projects showcasing my expertise in analytics, visualization, and machi
 
 - **Description:** Built a Power BI dashboard to track sales and performance of concessions at baseball games, optimizing inventory and pricing strategies.  
 - **Technologies:** Power BI  
-- [**PBIX File Download**](https://1drv.ms/u/s!Aon19ecNhTKCgbV1IqDZlEuzG5nALQ?e=B9U4pA)  
+- 📂 [**PBIX File Download**](https://1drv.ms/u/s!Aon19ecNhTKCgbV1IqDZlEuzG5nALQ?e=B9U4pA)  
 
 </details>
 
@@ -90,7 +94,7 @@ Discover projects showcasing my expertise in analytics, visualization, and machi
 
 - **Description:** Designed a Power BI sales dashboard to monitor KPIs, sales trends, and regional performance for effective decision-making.  
 - **Technologies:** Power BI  
-- [**PBIX File Download**](https://1drv.ms/u/s!Aon19ecNhTKCgbV0q8GDJZefIUDHEw?e=f07fRR)  
+- 📂 [**PBIX File Download**](https://1drv.ms/u/s!Aon19ecNhTKCgbV0q8GDJZefIUDHEw?e=f07fRR)  
 
 </details>
 
@@ -103,7 +107,7 @@ Discover projects showcasing my expertise in analytics, visualization, and machi
 </details>
 
 <details>
-<summary><a href="https://public.tableau.com/app/profile/hamzasalahds/viz/GlobalCOVID-19CaseTracker/Covid-19CaseTracker">Covid Case Tracker</a></summary>
+<summary><a href="https://public.tableau.com/app/profile/hamzasalahds/viz/GlobalCOVID-19CaseTracker/Covid-19CaseTracker">COVID-19 Case Tracker</a></summary>
 
 - **Description:** Developed a Tableau dashboard visualizing COVID-19 cases, deaths, and testing data from sources like WHO and CDC.  
 - **Technologies:** Tableau  
@@ -114,7 +118,7 @@ Discover projects showcasing my expertise in analytics, visualization, and machi
 <summary><a href="https://public.tableau.com/app/profile/hamzasalahds/viz/TimelyEffectiveCarebyHospitalinTheUnitedStatesDashboardCMS/TimelyEffectiveCarebyHospitalinTheUnitedStatesDashboardCMS">Timely & Effective Care Across the US</a></summary>
 
 - **Description:** Created a Tableau dashboard for CMS data to help patients choose the best hospital based on quality of care metrics.  
-- **Technologies:** Tableau, Data Visualization  
+- **Technologies:** Tableau  
 
 </details>
 

@@ -3,7 +3,7 @@
 **Welcome to my portfolio repository!**  
 Discover projects showcasing my expertise in analytics, visualization, and machine learning techniques like predictive modeling, clustering, and classification. Using tools like Python, SQL, Power BI, and Tableau, I transform data into insights and recommendations to solve real-world problems.
 
----
+
 
 ## Predictive Modeling Projects  
 ***Forecasting and predictions using statistical models and machine learning.***
@@ -32,7 +32,7 @@ Discover projects showcasing my expertise in analytics, visualization, and machi
 
 </details>
 
----
+
 
 ## Social Impact Projects  
 ***Data-driven insights and recommendations to empower communities and address social challenges.***
@@ -45,7 +45,7 @@ Discover projects showcasing my expertise in analytics, visualization, and machi
 
 </details>
 
----
+
 
 ## Data Querying & Management Projects  
 ***SQL and data management projects focusing on database design and querying.***
